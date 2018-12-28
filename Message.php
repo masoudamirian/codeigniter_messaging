@@ -23,7 +23,7 @@ class Message
 		}
 		catch (Exception $e)
 		{
-			echo 'خطایی پیش آمده است!';
+			echo 'Erorr!';
 			echo $e->getMessage();
 		}
 	}
@@ -43,7 +43,7 @@ class Message
 		 }
 		 catch (Exception $e)
 		 {
-			 echo 'خطایی پیش آمده است!';
+			 echo 'Erorr!';
 			 echo $e->getMessage();
 		 }
 	 }
@@ -60,7 +60,7 @@ class Message
 		}
 		catch (Exception $e)
 		{
-			echo 'خطایی پیش آمده است!';
+			echo 'Erorr!';
 			echo $e->getMessage();
 		}
 	}
@@ -77,7 +77,7 @@ class Message
 		}
 		catch (Exception $e)
 		{
-			echo 'خطایی پیش آمده است!';
+			echo 'Erorr!';
 			echo $e->getMessage();
 		}
 	}
@@ -94,7 +94,7 @@ class Message
 		}
 		catch (Exception $e)
 		{
-			echo 'خطایی پیش آمده است!';
+			echo 'Erorr!';
 			echo $e->getMessage();
 		}
 	}
@@ -108,7 +108,7 @@ class Message
 		}
 		catch (Exception $e)
 		{
-			echo 'خطایی پیش آمده است!';
+			echo 'Erorr!';
 			echo $e->getMessage();
 		}
 	}
